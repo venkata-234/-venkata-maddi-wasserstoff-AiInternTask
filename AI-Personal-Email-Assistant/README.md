@@ -10,4 +10,4 @@ pinned: false
 license: apache-2.0
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the configuration reference at https://huggingface.co/spaces/mkarna234/AI-Personal-Email-Assistant/tree/main and if and anyone want to use it you have to use for personnal api keys whichi was not uploaded due to insecurity
